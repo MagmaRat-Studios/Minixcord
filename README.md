@@ -11,9 +11,9 @@
 
 ```bash
 # clone the repo
-$ git clone https://github.com/ThalKod/discord-clone.git
+$ git clone https://github.com/MagmaRat-Studios/Minixcord.git
 
-$ cd discord-clone
+$ cd Minixcord
 
 # install the node modules...
 $ npm install
