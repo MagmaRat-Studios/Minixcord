@@ -4,10 +4,10 @@
   A "Discord clone" with Socket.io, Node.js &amp; MongoDB... 
 </p>
 
-![Profile MiniCord](https://github.com/ThalKod/discord-clone/blob/master/Profile_Screen.png)
+![Profile MiniCord](https://github.com/MagmaRat-Studios/Minixcord/blob/main/Minixcord-myprofile.png)
 
 
-# :floppy_disk: Installation
+<!-- # :floppy_disk: Installation
 
 ```bash
 # clone the repo
@@ -26,7 +26,7 @@ Make sure you start mongodb or correct env var...
 config.dbURL = process.env.DATABASEURL || "mongodb://localhost/minicord";
 ```
 
-
+-->
 ## Built with
 
 * [Socket io](https://github.com/socketio/socket.io) - Realtime application framework
