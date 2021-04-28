@@ -1,6 +1,6 @@
 # MinixCord
 <p align="center">
-  <img width="150" height="100" src="https://github.com/ThalKod/discord-clone/blob/master/MiniCord.png"> </br>
+  <img width="150" height="100" src="https://github.com/MagmaRat-Studios/Minixcord/blob/main/Minixcorddarklogo.png"> </br>
   A "Discord clone" with Socket.io, Node.js &amp; MongoDB... 
 </p>
 
